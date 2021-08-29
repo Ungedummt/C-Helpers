@@ -1,0 +1,10 @@
+{
+    "name": "C-Helpers",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Ungedummt/C-Helpers.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
